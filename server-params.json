@@ -1,0 +1,14 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "ProjectTwo"
+    },
+    {
+        "ParameterKey": "EC2AMIID",
+        "ParameterValue": "ami-0729e439b6769d6ab"
+    },
+    {
+        "ParameterKey": "BucketName",
+        "ParameterValue": "myiaacprojectbucket616080107052"
+    }
+]
