@@ -14,4 +14,4 @@ The parameters for creating the server infrastructure.
 
 Load Balancer URL (Endpoint): 
 
-Proje-WebAp-1JTAO9SQ97IS9-1718455537.us-east-1.elb.amazonaws.com
+http://Proje-WebAp-1JTAO9SQ97IS9-1718455537.us-east-1.elb.amazonaws.com
